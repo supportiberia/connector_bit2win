@@ -1,0 +1,4 @@
+[submodule "supportiberia/connector_bit2win"]
+	path = supportiberia/connector_bit2win
+	url = git@github.com:supportiberia/connector_bit2win.git
+	branch = 15.0
